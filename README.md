@@ -1,7 +1,7 @@
-# RepoName
+# MusicPlayer2
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/MusicPlayer2
 ```
