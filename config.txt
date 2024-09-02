@@ -1,0 +1,5 @@
+
+PROJECT_NAME=MusicPlayer2
+MusicPlayer2_VERSION_MAJOR=2
+MusicPlayer2_VERSION_MINOR=77
+MusicPlayer2_VERSION_PATCH=1
